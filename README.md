@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   </div>
-  <img src="./storage/codigo.gif" alt="Pantalla con código" style="height: 20vw; border-radius: 5px;"/>
+  <img src="./storage/codigo.gif" alt="Pantalla con código" style="height: 10vw; border-radius: 5px;"/>
   </div>
 
 <br>
@@ -59,11 +59,11 @@
 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danny200523&theme=dark#gh-dark-mode-only" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AuraCamilaPicoAraque&theme=dark#gh-dark-mode-only" alt="GitHub Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danny200523&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AuraCamilaPicoAraque&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 
