@@ -9,6 +9,8 @@
 <h3 align="center"> Desarrolladora de software apasionada por crear soluciones innovadoras. Actualmente enfocada en el desarrollo web y bases de datos. Me encanta aprender nuevas tecnologías y colaborar en proyectos desafiantes. </h3>
 
   <br>
+  <br>
+  
 
 <!-- Sección de Contacto -->
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> Contáctame
@@ -27,7 +29,9 @@
   </a>
 </div>
 
+
   <br>
+<br>
 
 <!-- Sección de Habilidades -->
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" /> Tecnologías y Habilidades
@@ -40,77 +44,94 @@
 <details>
   <summary> Mis stacks</summary>
   <br>
-  <!-- Frontend -->
- <div style="background: #1A1A1A; padding:15px; border-radius: 10px;">
-    <h2 style="display: flex; align-items: center; justify-content: center; gap: 10px; ">
-      <img src="https://media.giphy.com/media/VgZzeedhOk0O3uOQY1/giphy.gif" width="25">
-      Frontend
-    </h2>
-    <p style="text-align: center; color: #aaa; font-size: 1em;">
-      Desarrollo interfaces interactivas y responsivas con las últimas tecnologías web.
-    </p>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px; margin-bottom: 20px;">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="Estructura semántica de páginas web"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="Estilos y diseño responsive"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="Interactividad y lógica del cliente"/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Framework para desarrollo rápido"/>
-    </div>
-  </div>
+<table style="width: 100%; border-collapse: collapse;">
 
-<br>
-  <!-- Backend -->
+  <!-- Fila 1: Frontend + Backend -->
+  <tr>
+    <!-- Frontend -->
+    <td style="width: 50%; padding: 12px; border: 1px solid #333; vertical-align: top;">
+      <div style="background: #1A1A1A; padding: 15px; border-radius: 8px; height: 100%;">
+        <h3 align="center" style="margin: 10px 0;">
+          <img src="https://media.giphy.com/media/VgZzeedhOk0O3uOQY1/giphy.gif" width="25">
+          Frontend
+        </h3>
+        <div align="center">
+          <p style="margin: 8px 0; font-size: 14px; color: #aaa;">
+            Desarrollo interfaces interactivas y responsivas con las últimas tecnologías web.
+          </p>
+          <div style="margin-top: 10px;">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+            <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+          </div>
+        </div>
+      </div>
+    </td>
+    <!-- Backend -->
+    <td style="width: 50%; padding: 10px; border: 1px solid #333; vertical-align: top;">
+      <div style="background: #1A1A1A; padding: 15px; border-radius: 8px; height: 100%;">
+        <h3 align="center" style="margin: 10px 0;">
+          <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="25">
+          Backend
+        </h3>
+        <div align="center">
+          <p style="margin: 8px 0; font-size: 14px; color: #aaa;">
+            Construyo la lógica del servidor y APIs robustas para aplicaciones escalables.
+          </p>
+          <div style="margin-top: 10px;">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+          </div>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <!-- Fila 2: Bases de Datos + Herramientas -->
+  <tr>
+    <!-- Bases de Datos -->
+    <td style="width: 50%; padding: 10px; border: 1px solid #333; vertical-align: top;">
+      <div style="background: #1A1A1A; padding: 15px; border-radius: 8px; height: 100%;">
+        <h3 align="center" style="margin: 10px 0;">
+          <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25">
+          Bases de Datos
+        </h3>
+        <div align="center">
+          <p style="margin: 8px 0; font-size: 14px; color: #aaa;">
+            Diseño y gestiono estructuras de datos eficientes para almacenamiento y consulta.
+          </p>
+          <div style="margin-top: 10px;">
+            <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+          </div>
+        </div>
+      </div>
+    </td>
+    <!-- Herramientas -->
+    <td style="width: 50%; padding: 10px; border: 1px solid #333; vertical-align: top;">
+      <div style="background: #1A1A1A; padding: 15px; border-radius: 8px; height: 100%;">
+        <h3 align="center" style="margin: 10px 0;">
+          <img src="https://media.giphy.com/media/lnlAifQdenMxW/giphy.gif" width="25">
+          Herramientas
+        </h3>
+        <div align="center">
+          <p style="margin: 8px 0; font-size: 14px; color: #aaa;">
+            Flujo de trabajo optimizado con las mejores herramientas de desarrollo.
+          </p>
+          <div style="margin-top: 10px;">
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+            <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+          </div>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
-   <div style="background: #1A1A1A; padding: 15px; border-radius: 10px;">
-    <h2 style="display: flex; align-items: center; justify-content: center; gap: 8px;">
-      <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="25">
-      Backend
-    </h2>
-    <p style="text-align: center; color: #aaa; font-size: 1em;">
-      Construyo la lógica del servidor y APIs robustas para aplicaciones escalables.
-    </p>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px; margin-bottom: 15px;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Desarrollo de aplicaciones backend"/>
-    </div>
-  </div>
-
-<br>
-
-  <!-- Bases de Datos -->
-  <div style="background: #1A1A1A; padding: 15px; border-radius: 10px;">
-    <h2 style="display: flex; align-items: center; justify-content: center; gap: 8px;">
-      <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25">
-      Bases de Datos
-    </h2>
-    <p style="text-align: center; color: #aaa; font-size: 1em;">
-      Diseño y gestiono estructuras de datos eficientes para almacenamiento y consulta.
-    </p>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px; margin-bottom: 15px;">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" title="Lenguaje para gestión de bases de datos relacionales"/>
-    </div>
-  </div>
-
-<br>
-
-  <!-- Herramientas -->
-  <div style="background: #1A1A1A; padding: 15px; border-radius: 10px;">
-    <h2 style="display: flex; align-items: center; justify-content: center; gap: 8px;">
-      <img src="https://media.giphy.com/media/lnlAifQdenMxW/giphy.gif" width="25">
-      Herramientas
-    </h2>
-    <p style="text-align: center; margin: 10px 0; color: #aaa; font-size: 1em;">
-      Flujo de trabajo optimizado con las mejores herramientas de desarrollo.
-    </p>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px; margin-bottom: 15px;">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Control de versiones distribuido"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="Plataforma de colaboración y hosting de código"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" title="Editor de código ligero y potente"/>
-    </div>
-  </div>
 </details>
 
 
-
-
+<br>
+ <br>
 
 <!-- Sección de Proyectos -->
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25"> Proyectos Destacados
@@ -121,10 +142,10 @@
     <td style="width: 50%; padding: 10px; border: 1px solid #333; vertical-align: top;">
       <div style="background: #1A1A1A; padding: 15px; border-radius: 8px; height: 100%;">
         <h3 align="center" style="margin: 10px 0;">
-          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNkMXFzMG9uejk4bGlqczRzaXZyZTBmNDNrZHpvam8wMnJoYXhoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p9k51efIEAgpgObFJ9/giphy.gif" width="30"> Formula 1
+          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNkMXFzMG9uejk4bGlqczRzaXZyZTBmNDNrZHpvam8wMnJoYXhoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p9k51efIEAgpgObFJ9/giphy.gif" width="25"> Formula 1
         </h3>
         <div align="center">
-          <img src="./storage/formula1.gif" alt="formula1" style="max-width: 90%; border-radius: 5px; margin: 5px 0; border: 1px solid #444;">
+          <img src="./storage/formula1.gif" alt="formula1" style="width: 40vh ; border-radius: 5px; margin: 5px 0; border: 1px solid #444;">
           <p style="margin: 8px 0; font-size: 14px;"><strong>Sitio interactivo para explorar información de la Fórmula 1.</strong></p>
           <p style="margin: 8px 0; font-size: 13px; color: #aaa;">HTML, CSS, JavaScript</p>
           <a href="https://github.com/AuraCamilaPicoAraque/Formula1" target="_blank">
@@ -137,10 +158,10 @@
     <td style="width: 50%; padding: 10px; border: 1px solid #333; vertical-align: top;">
       <div style="background: #1A1A1A; padding: 15px; border-radius: 8px; height: 100%;">
         <h3 align="center" style="margin: 10px 0;">
-          <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWx4aXpkdjA5b3g0OHhuMWU0bGIwcTg4Nnc1aXZpbGU0YnMxcms1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HExo6gK3amNcv0PIYi/giphy.gif" width="15"> Kario Media
+          <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWx4aXpkdjA5b3g0OHhuMWU0bGIwcTg4Nnc1aXZpbGU0YnMxcms1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HExo6gK3amNcv0PIYi/giphy.gif" width="25"> Kario Media
         </h3>
         <div align="center">
-          <img src="./storage/kariomedia.gif" alt="karioMedia" style="max-width: 90%; border-radius: 5px; margin: 5px 0; border: 1px solid #444;">
+          <img src="./storage/kariomedia.gif" alt="karioMedia" style="width: 51vh; border-radius: 5px; margin: 5px 0; border: 1px solid #444;">
           <p style="margin: 8px 0; font-size: 14px;"><strong>Plataforma web para una consultora digital.</strong></p>
           <p style="margin: 8px 0; font-size: 13px; color: #aaa;">Bootstrap, HTML, CSS</p>
           <a href="https://github.com/AuraCamilaPicoAraque/Kario-Media" target="_blank">
@@ -155,10 +176,10 @@
     <td style="width: 50%; padding: 10px; border: 1px solid #333; vertical-align: top;">
       <div style="background: #1A1A1A; padding: 15px; border-radius: 8px; height: 100%;">
         <h3 align="center" style="margin: 10px 0;">
-          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRoaG1uNDJ2MXJ1NHphZ2phd3ZhaGt1MWppZzRsNWlpajVua3lhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qqtQE2eD0xbeqrdYVI/giphy.gif" width="18"> BaseDatosCampusLand
+          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRoaG1uNDJ2MXJ1NHphZ2phd3ZhaGt1MWppZzRsNWlpajVua3lhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qqtQE2eD0xbeqrdYVI/giphy.gif" width="25"> BaseDatosCampusLand
         </h3>
         <div align="center">
-          <img src="./storage/basedatos.PNG" alt="basedatos" style="max-width: 90%; border-radius: 5px; margin: 5px 0; border: 1px solid #444;">
+          <img src="./storage/basedatos.PNG" alt="basedatos" style="width: 18vh ; border-radius: 5px; margin: 5px 0; border: 1px solid #444;">
           <p style="margin: 8px 0; font-size: 14px;"><strong>Sistema de gestión de base de datos para CampusLand.</strong></p>
           <p style="margin: 8px 0; font-size: 13px; color: #aaa;">Python, SQL</p>
           <a href="https://github.com/AuraCamilaPicoAraque/BaseDatosCampusLand" target="_blank">
@@ -172,7 +193,7 @@
       <div style="background: #1A1A1A; padding: 15px; border-radius: 8px; height: 100%;">
         <h3 align="center" style="margin: 10px 0;">📂 Portafolio</h3>
         <div align="center">
-          <img src="./storage/proyecto.png" alt="portafolio" style="max-width: 90%; border-radius: 5px; margin: 5px 0; border: 1px solid #444;">
+          <img src="./storage/proyecto.png" alt="portafolio" style="width: 10vw ; border-radius: 5px; margin: 5px 0; border: 1px solid #444;">
           <p style="margin: 8px 0; font-size: 14px;"><strong>Portafolio personal de proyectos desarrollados.</strong></p>
           <p style="margin: 8px 0; font-size: 13px; color: #aaa;">HTML, CSS, JavaScript</p>
           <a href="https://github.com/AuraCamilaPicoAraque/Portafolio" target="_blank">
@@ -186,59 +207,59 @@
 
 
 
-
 <br>
-<!-- Sección de Estadísticas - Diseño Relajado (Manteniendo colores originales) -->
+<br>
 
+<!-- Sección de Estadísticas -->
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Mis Estadísticas
 
-<div style="background: #1A1A1A; padding: 16px; border-radius: 10px; margin: 20px 0;">
-
-  <!-- Primera Fila -->
-  <div style="display: flex; flex-wrap: wrap; gap: 16px; margin-bottom: 16px;">
-    <!-- Estadísticas Generales -->
-    <div style="flex: 1; min-width: 300px;">
-      <div style="display: flex; align-items: center; margin-bottom: 8px;">
-        <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="25" style="margin-right: 8px;">
-        <h3 style="margin: 0; font-size: 16px;">Generales</h3>
+<table align="center">
+  <tr>
+    <td>
+      <div align="center" style="background: #1A1A1A; padding: 15px; border-radius: 10px;">
+        <h2>
+          <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="25"> 
+          Generales
+        </h2>
+        <img src="https://github-readme-stats.vercel.app/api?username=AuraCamilaPicoAraque&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" 
+             alt="GitHub Stats" 
+             style="width: 20vw; border-radius: 5px;"/>
       </div>
-      <img src="https://github-readme-stats.vercel.app/api?username=AuraCamilaPicoAraque&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&hide=issues&line_height=22" style="width: 100%; border-radius: 6px;">
-    </div>
-        <!-- Detalles -->
-    <div style="flex: 1; min-width: 320px;">
-      <div style="display: flex; align-items: center; margin-bottom: 10px;">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpjcGtncDltd3IxY3ltY2x3dGFmOWE2NHhmdnoyN2I4dnRuNWU0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZ5vbaMeeX67dQn5qU/giphy.gif" width="20" style="margin-right: 8px;">
-        <h3 style="margin: 0; font-size: 16px;">Detalles</h3>
+    </td>
+    <td>
+      <div align="center" style="background: #1A1A1A; padding: 15px; border-radius: 10px;">
+        <h2>
+          <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="25"> 
+          Lenguajes
+        </h2>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuraCamilaPicoAraque&layout=compact&theme=dark&hide_border=true" 
+             alt="Top Languages" 
+             style="width: 10vw; border-radius: 5px;"/>
       </div>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AuraCamilaPicoAraque&theme=dark" style="width: 100%; border-radius: 6px;">
-    </div>
-        
-   
-
-  <!-- Segunda Fila -->
-  <div style="display: flex; flex-wrap: wrap; gap: 16px;">
-     <!-- Lenguajes -->
-    <div style="flex: 1; min-width: 300px;">
-      <div style="display: flex; align-items: center; margin-bottom: 8px;">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ3enpobnh2d3llYnN0NmRrMXA0N2RmdGtmODd5b2VseTBiZHNxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif" width="25" style="margin-right: 8px;">
-        <h3 style="margin: 0; font-size: 16px;">Lenguajes</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center" style="background: #1A1A1A; padding: 15px; border-radius: 10px;">
+        <h2 align="left"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2djYnNlcjM1dTFqZXkyNmpiNTN4bXJ0ZWhnOTYxajMyZjFqMDk2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ewh4ipgPw1bBVj4HI5/giphy.gif" width="25"> Racha </h2>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuraCamilaPicoAraque&theme=dark&hide_border=true" 
+             alt="Streak Stats" 
+             style="width: 20vw; border-radius: 5px;"/>
       </div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuraCamilaPicoAraque&layout=compact&theme=dark&hide_border=true&langs_count=5" style="width: 100%; border-radius: 6px;">
-    </div>
-  </div>
-  <!-- Racha -->
-    <div style="flex: 1; min-width: 300px;">
-      <div style="display: flex; align-items: center; margin-bottom: 8px;">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2djYnNlcjM1dTFqZXkyNmpiNTN4bXJ0ZWhnOTYxajMyZjFqMDk2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ewh4ipgPw1bBVj4HI5/giphy.gif" width="25" style="margin-right: 8px;">
-        <h3 style="margin: 0; font-size: 16px;">Racha</h3>
+    </td>
+    <td>
+      <div align="center" style="background: #1A1A1A; padding: 15px; border-radius: 10px;">
+      <h2 align="left"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpjcGtncDltd3IxY3ltY2x3dGFmOWE2NHhmdnoyN2I4dnRuNWU0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZ5vbaMeeX67dQn5qU/giphy.gif" width="20"> Detalles </h2>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AuraCamilaPicoAraque&theme=dark" 
+             alt="Profile Details" 
+             style="width: 20vw; border-radius: 5px;"/>
       </div>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuraCamilaPicoAraque&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" style="width: 100%; border-radius: 6px;">
-    </div>
-
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
 <br>
+
 
 <!-- Sección de Actividad -->
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="30"> Mi Actividad
