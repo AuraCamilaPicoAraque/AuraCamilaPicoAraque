@@ -1,12 +1,12 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000828&text=AURA%20CAMILA%20PICO%20ARAQUE&reversal=true&section=header&fontAlign=50&fontColor=ffffff&textBg=false&fontSize=35&fontAlignY=27&desc=Creciendo%20en%20el%20mundo%20del%20desarrollo%20de%20software%20|%20Transformo%20curiosidad%20en%20código&&animation=fadeIn&descAlign=50&descAlignY=49" alt="Aura Camila" /> </div>
 
 <!-- Sección de Presentación -->
-<h2 align="center"> Hello people , I am Aura Camila <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h2>
+<h1 align="center"> Hello people , I am Aura Camila <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 <h3 align="center"> 💡 "Escribo código con café, música y muchas ganas de mejorar" </h3>
 
 <!-- Sección Sobre Mí -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sobre Mí
-<p align="center"> Desarrolladora de software apasionada por crear soluciones innovadoras. Actualmente enfocada en el desarrollo web y bases de datos. Me encanta aprender nuevas tecnologías y colaborar en proyectos desafiantes. </p>
+<h3 align="center"> Desarrolladora de software apasionada por crear soluciones innovadoras. Actualmente enfocada en el desarrollo web y bases de datos. Me encanta aprender nuevas tecnologías y colaborar en proyectos desafiantes. </h3>
 
   <br>
 
@@ -113,71 +113,70 @@
 
 
 <!-- Sección de Proyectos -->
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Proyectos Destacados
-<table style="width: 100%; border-collapse: collapse; border-spacing: 0;">
-  <!-- Fila 1 -->
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="25"> Proyectos Destacados
+
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
     <!-- Proyecto 1 -->
-    <td style="width: 50%; vertical-align: top; padding: 15px; border-right: 1px solid #444; border-bottom: 1px solid #444;">
-      <div style="background: #1A1A1A; padding: 20px; border-radius: 10px; height: 100%;">
-        <h2 align="center">
-          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNkMXFzMG9uejk4bGlqczRzaXZyZTBmNDNrZHpvam8wMnJoYXhoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p9k51efIEAgpgObFJ9/giphy.gif" width="45"> Formula 1
-        </h2>
+    <td style="width: 50%; padding: 10px; border: 1px solid #333; vertical-align: top;">
+      <div style="background: #1A1A1A; padding: 15px; border-radius: 8px; height: 100%;">
+        <h3 align="center" style="margin: 10px 0;">
+          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNkMXFzMG9uejk4bGlqczRzaXZyZTBmNDNrZHpvam8wMnJoYXhoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p9k51efIEAgpgObFJ9/giphy.gif" width="30"> Formula 1
+        </h3>
         <div align="center">
-          <img src="./storage/formula1.gif" alt="formula1" style="max-width: 100%; border-radius: 5px; margin: 10px 0; border: 1px solid #444;">
-          <p><strong>Sitio interactivo para explorar información de la Fórmula 1.</strong></p>
-          <p>Tecnologías: HTML, CSS, JavaScript</p>
+          <img src="./storage/formula1.gif" alt="formula1" style="max-width: 90%; border-radius: 5px; margin: 5px 0; border: 1px solid #444;">
+          <p style="margin: 8px 0; font-size: 14px;"><strong>Sitio interactivo para explorar información de la Fórmula 1.</strong></p>
+          <p style="margin: 8px 0; font-size: 13px; color: #aaa;">HTML, CSS, JavaScript</p>
           <a href="https://github.com/AuraCamilaPicoAraque/Formula1" target="_blank">
-            <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white">
+            <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" style="height: 24px;">
           </a>
         </div>
       </div>
     </td>
     <!-- Proyecto 2 -->
-    <td style="width: 50%; vertical-align: top; padding: 15px; border-bottom: 1px solid #444;">
-      <div style="background: #1A1A1A; padding: 20px; border-radius: 10px; height: 100%;">
-        <h2 align="center">
+    <td style="width: 50%; padding: 10px; border: 1px solid #333; vertical-align: top;">
+      <div style="background: #1A1A1A; padding: 15px; border-radius: 8px; height: 100%;">
+        <h3 align="center" style="margin: 10px 0;">
           <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWx4aXpkdjA5b3g0OHhuMWU0bGIwcTg4Nnc1aXZpbGU0YnMxcms1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HExo6gK3amNcv0PIYi/giphy.gif" width="15"> Kario Media
-        </h2>
+        </h3>
         <div align="center">
-          <img src="./storage/kariomedia.gif" alt="karioMedia" style="max-width: 100%; border-radius: 5px; margin: 10px 0; border: 1px solid #444;">
-          <p><strong>Plataforma web para una consultora digital.</strong></p>
-          <p>Tecnologías: Bootstrap, HTML, CSS</p>
+          <img src="./storage/kariomedia.gif" alt="karioMedia" style="max-width: 90%; border-radius: 5px; margin: 5px 0; border: 1px solid #444;">
+          <p style="margin: 8px 0; font-size: 14px;"><strong>Plataforma web para una consultora digital.</strong></p>
+          <p style="margin: 8px 0; font-size: 13px; color: #aaa;">Bootstrap, HTML, CSS</p>
           <a href="https://github.com/AuraCamilaPicoAraque/Kario-Media" target="_blank">
-            <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white">
+            <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" style="height: 24px;">
           </a>
         </div>
       </div>
     </td>
   </tr>
-  <!-- Fila 2 -->
   <tr>
     <!-- Proyecto 3 -->
-    <td style="width: 50%; vertical-align: top; padding: 15px; border-right: 1px solid #444;">
-      <div style="background: #1A1A1A; padding: 20px; border-radius: 10px; height: 100%;">
-        <h2 align="center">
+    <td style="width: 50%; padding: 10px; border: 1px solid #333; vertical-align: top;">
+      <div style="background: #1A1A1A; padding: 15px; border-radius: 8px; height: 100%;">
+        <h3 align="center" style="margin: 10px 0;">
           <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRoaG1uNDJ2MXJ1NHphZ2phd3ZhaGt1MWppZzRsNWlpajVua3lhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qqtQE2eD0xbeqrdYVI/giphy.gif" width="18"> BaseDatosCampusLand
-        </h2>
+        </h3>
         <div align="center">
-          <img src="./storage/basedatos.PNG" alt="basedatos" style="max-width: 100%; border-radius: 5px; margin: 10px 0; border: 1px solid #444;">
-          <p><strong>Sistema de gestión de base de datos para CampusLand.</strong></p>
-          <p>Tecnologías: Python, SQL</p>
+          <img src="./storage/basedatos.PNG" alt="basedatos" style="max-width: 90%; border-radius: 5px; margin: 5px 0; border: 1px solid #444;">
+          <p style="margin: 8px 0; font-size: 14px;"><strong>Sistema de gestión de base de datos para CampusLand.</strong></p>
+          <p style="margin: 8px 0; font-size: 13px; color: #aaa;">Python, SQL</p>
           <a href="https://github.com/AuraCamilaPicoAraque/BaseDatosCampusLand" target="_blank">
-            <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white">
+            <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" style="height: 24px;">
           </a>
         </div>
       </div>
     </td>
     <!-- Proyecto 4 -->
-    <td style="width: 50%; vertical-align: top; padding: 15px;">
-      <div style="background: #1A1A1A; padding: 20px; border-radius: 10px; height: 100%;">
-        <h2 align="center">📂 Portafolio</h2>
+    <td style="width: 50%; padding: 10px; border: 1px solid #333; vertical-align: top;">
+      <div style="background: #1A1A1A; padding: 15px; border-radius: 8px; height: 100%;">
+        <h3 align="center" style="margin: 10px 0;">📂 Portafolio</h3>
         <div align="center">
-          <img src="./storage/proyecto.png" alt="portafolio" style="max-width: 100%; border-radius: 5px; margin: 10px 0; border: 1px solid #444;">
-          <p><strong>Portafolio personal de proyectos desarrollados.</strong></p>
-          <p>Tecnologías: HTML, CSS, JavaScript</p>
+          <img src="./storage/proyecto.png" alt="portafolio" style="max-width: 90%; border-radius: 5px; margin: 5px 0; border: 1px solid #444;">
+          <p style="margin: 8px 0; font-size: 14px;"><strong>Portafolio personal de proyectos desarrollados.</strong></p>
+          <p style="margin: 8px 0; font-size: 13px; color: #aaa;">HTML, CSS, JavaScript</p>
           <a href="https://github.com/AuraCamilaPicoAraque/Portafolio" target="_blank">
-            <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white">
+            <img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" style="height: 24px;">
           </a>
         </div>
       </div>
@@ -185,39 +184,59 @@
   </tr>
 </table>
 
-#
+
 
 
 <br>
+<!-- Sección de Estadísticas - Diseño Relajado (Manteniendo colores originales) -->
 
-
-<!-- Sección de Estadísticas Compactas -->
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Mis Estadísticas
-<div align="center" style="background: #1A1A1A; padding: 15px; border-radius: 10px; margin: 20px 0;">
-  <div>
+
+<div style="background: #1A1A1A; padding: 16px; border-radius: 10px; margin: 20px 0;">
+
+  <!-- Primera Fila -->
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; margin-bottom: 16px;">
     <!-- Estadísticas Generales -->
-    <div>
-      <h2 align="left"> <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="25"> Generales </h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=AuraCamilaPicoAraque&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=Estadísticas&hide=issues" alt="GitHub Stats" style="width: 100%; border-radius: 5px;"/>
+    <div style="flex: 1; min-width: 300px;">
+      <div style="display: flex; align-items: center; margin-bottom: 8px;">
+        <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="25" style="margin-right: 8px;">
+        <h3 style="margin: 0; font-size: 16px;">Generales</h3>
+      </div>
+      <img src="https://github-readme-stats.vercel.app/api?username=AuraCamilaPicoAraque&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&hide=issues&line_height=22" style="width: 100%; border-radius: 6px;">
     </div>
-    <!-- Lenguajes Principales -->
-    <div>
-      <h2 align="left"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ3enpobnh2d3llYnN0NmRrMXA0N2RmdGtmODd5b2VseTBiZHNxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif" width="25"> Lenguajes </h2>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuraCamilaPicoAraque&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" style="width: 100%; border-radius: 5px;"/>
+        <!-- Detalles -->
+    <div style="flex: 1; min-width: 320px;">
+      <div style="display: flex; align-items: center; margin-bottom: 10px;">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpjcGtncDltd3IxY3ltY2x3dGFmOWE2NHhmdnoyN2I4dnRuNWU0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZ5vbaMeeX67dQn5qU/giphy.gif" width="20" style="margin-right: 8px;">
+        <h3 style="margin: 0; font-size: 16px;">Detalles</h3>
+      </div>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AuraCamilaPicoAraque&theme=dark" style="width: 100%; border-radius: 6px;">
     </div>
-    <!-- Racha de Contribuciones -->
-    <div>
-      <h2 align="left"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2djYnNlcjM1dTFqZXkyNmpiNTN4bXJ0ZWhnOTYxajMyZjFqMDk2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ewh4ipgPw1bBVj4HI5/giphy.gif" width="25"> Racha </h2>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuraCamilaPicoAraque&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" style="width: 100%; border-radius: 5px;"/>
-    </div>
-    <!-- Detalles de Perfil -->
-    <div>
-      <h2 align="left"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHpjcGtncDltd3IxY3ltY2x3dGFmOWE2NHhmdnoyN2I4dnRuNWU0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZ5vbaMeeX67dQn5qU/giphy.gif" width="20"> Detalles </h2>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AuraCamilaPicoAraque&theme=dark" alt="Profile Details" style="width: 100%; border-radius: 5px;"/>
+        
+   
+
+  <!-- Segunda Fila -->
+  <div style="display: flex; flex-wrap: wrap; gap: 16px;">
+     <!-- Lenguajes -->
+    <div style="flex: 1; min-width: 300px;">
+      <div style="display: flex; align-items: center; margin-bottom: 8px;">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ3enpobnh2d3llYnN0NmRrMXA0N2RmdGtmODd5b2VseTBiZHNxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif" width="25" style="margin-right: 8px;">
+        <h3 style="margin: 0; font-size: 16px;">Lenguajes</h3>
+      </div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuraCamilaPicoAraque&layout=compact&theme=dark&hide_border=true&langs_count=5" style="width: 100%; border-radius: 6px;">
     </div>
   </div>
-</div>
+  <!-- Racha -->
+    <div style="flex: 1; min-width: 300px;">
+      <div style="display: flex; align-items: center; margin-bottom: 8px;">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2djYnNlcjM1dTFqZXkyNmpiNTN4bXJ0ZWhnOTYxajMyZjFqMDk2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ewh4ipgPw1bBVj4HI5/giphy.gif" width="25" style="margin-right: 8px;">
+        <h3 style="margin: 0; font-size: 16px;">Racha</h3>
+      </div>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuraCamilaPicoAraque&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" style="width: 100%; border-radius: 6px;">
+    </div>
 
+  </div>
+</div>
 
 <br>
 
