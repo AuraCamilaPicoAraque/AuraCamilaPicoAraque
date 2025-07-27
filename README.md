@@ -2,10 +2,16 @@
 
 <!-- Sección de Presentación -->
 <h1 align="center"> Hello people , I am Aura Camila <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
-<h3 align="center"> 💡 "Escribo código con café, música y muchas ganas de mejorar" </h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&center=true&vCenter=true&width=890&height=250&lines=✍+Escribo+código+con+café,+música+y+muchas+ganas+de+mejorar;🎧+líneas+de+código+y+buena+música,+voy+construyendo+mi+camino.;🌱+Creciendo+en+cada+commit,+avanzando+en+cada+push.&color=FFFFFF">
+  </a>
+</p>
+
 
 <!-- Sección Sobre Mí -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sobre Mí
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sobre Mí   <img height="39vh" width="39vw" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
+
 <h3 align="center"> Desarrolladora de software apasionada por crear soluciones innovadoras. Actualmente enfocada en el desarrollo web y bases de datos. Me encanta aprender nuevas tecnologías y colaborar en proyectos desafiantes. </h3>
 
   <br>
@@ -273,11 +279,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AuraCamilaPicoAraque&theme=onedark&no-frame=true&row=1&column=7" alt="GitHub Trophies" style="max-width: 100%;"/>
 </div>
 
-<!-- Sección de Frase Inspiradora -->
-## <img src="https://media.giphy.com/media/3o6Zt6KHxJTbql0X4c/giphy.gif" width="30"> Reflexión del Día
-<div align="center" style="background: #1A1A1A; padding: 15px; border-radius: 10px; margin: 20px 0;">
-  <i style="font-size: 1.1em;">"El código es poesía lógica que da vida a las ideas. Cada línea es un paso hacia la solución."</i>
+<br>
+
+##
+<div align="center">
+  <a href="https://github.com/AuraCamilaPicoAraque">
+    <img src="https://raw.githubusercontent.com/Andre230906/Andre230906/4981288992de3ebc181766d46340378083de7e28/grid-snake.svg" alt="snake">
+  </a>
 </div>
+
+<br>
+
+## 
 
 <!-- Footer -->
 <div align="center">
