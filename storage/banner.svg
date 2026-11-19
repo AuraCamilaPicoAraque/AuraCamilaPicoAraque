@@ -39,11 +39,11 @@
   <text x="820" y="37" class="mute" style="font-size:13px">disponible</text>
 
   <!-- contenido -->
-  <g class="l1"><text x="48" y="110" class="prompt">$ <tspan class="mute">whoami</tspan></text></g>
+  <g class="l1"><text x="48" y="110" class="prompt">$ <tspan class="mute">Determinada</tspan></text></g>
   <g class="l2"><text x="48" y="156" class="name">Aura Camila Pico Araque</text></g>
   <g class="l3"><text x="48" y="188" class="role">Desarrolladora de software · web &amp; bases de datos</text></g>
   <g class="l4">
-    <text x="48" y="218" class="prompt">$ <tspan class="mute">transformo --curiosidad código</tspan></text>
+    <text x="48" y="218" class="prompt">$ <tspan class="mute">Produciendo --Persistiendo </tspan></text>
     <rect class="cursor" x="318" y="205" width="10" height="17"/>
   </g>
 </svg>
